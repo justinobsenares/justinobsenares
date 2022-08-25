@@ -238,14 +238,13 @@
 }
 .dl-cv{
     text-decoration: none;
-    background-color: #252525;
+    background-color: #020202;
     padding: 12px;
     color: #fff;
     border-radius: 10px;
 }
 .dl-cv:hover{
     background-color: #3a3a3a;
-    border: 1px solid #414141;
 }
 
    h1{
